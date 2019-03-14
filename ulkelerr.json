@@ -1,0 +1,91 @@
+{"ulkeler":[
+	{ 
+	"ulkeadi":"Türkiye", 
+	"baskent":"Ankara", 
+	"dil":"Türkçe",
+	"yuzolcumu":"783.562",
+	"parabirimi":"tl",
+	"telefonkodu":"90"
+	},
+	{ 
+	"ulkeadi":"Rusya", 
+	"baskent":"Moskova", 
+	"dil":"Rusça",
+	"yuzolcumu":"17.100.000",
+	"parabirimi":"Rus Rublesi",
+	"telefonkodu":"7"
+	},
+	{ 
+	"ulkeadi":"Almanya", 
+	"baskent":"Berlin", 
+	"dil":"Almanca",
+	"yuzolcumu":"357.386",        
+	"parabirimi":"Euro",
+	"telefonkodu":"49"
+	},
+	{ 
+	"ulkeadi":"Fransa", 
+	"baskent":"Paris", 
+	"dil":"Fransızca",
+	"yuzolcumu":"643.801",        
+	"parabirimi":"Euro",
+	"telefonkodu":"33"
+	},
+	{ 
+	"ulkeadi":"İtalya", 
+	"baskent":"Roma", 
+	"dil":"İtalyanca",
+	"yuzolcumu":"301.338",        
+	"parabirimi":"Euro",
+	"telefonkodu":"39"
+	},
+	{ 
+	"ulkeadi":"Hollanda", 
+	"baskent":"Amsterdam", 
+	"dil":"Felemenkçe",
+	"yuzolcumu":"42.508",        
+	"parabirimi":"Euro",
+	"telefonkodu":"31"
+	},
+	{ 
+	"ulkeadi":"Güney Kore", 
+	"baskent":"Seul", 
+	"dil":"Korece",
+	"yuzolcumu":"100.210",        
+	"parabirimi":"Güney Kore Wonu",
+	"telefonkodu":"82"
+	},
+	{ 
+	"ulkeadi":"Japonya", 
+	"baskent":"Tokyo", 
+	"dil":"Japonca",
+	"yuzolcumu":"377.972",        
+	"parabirimi":"Japon Yeni",
+	"telefonkodu":"81"
+	},
+	{ 
+	"ulkeadi":"İngiltere", 
+	"baskent":"Londra", 
+	"dil":"İngilizce",
+	"yuzolcumu":"130.395",        
+	"parabirimi":"İngiliz Sterlini",
+	"telefonkodu":"44"
+	},
+	{ 
+	"ulkeadi":"Çin", 
+	"baskent":"Pekin", 
+	"dil":"Çince",
+	"yuzolcumu":"9.597.000",        
+	"parabirimi":"Çin Yuanı",
+	"telefonkodu":"86"
+	},
+	{ 
+	"ulkeadi":"Küba", 
+	"baskent":"Havana", 
+	"dil":"İspanyolca",
+	"yuzolcumu":"109.884",        
+	"parabirimi":"Küba Pesosu",
+	"telefonkodu":"53"
+	}
+
+]}
